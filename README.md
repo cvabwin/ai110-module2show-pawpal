@@ -145,7 +145,7 @@ Sample test output:
 # Test covers sorting, recurrence, and conflict detection. Confidence Level: 5 stars
 python -m pytest
 platform win32 -- Python 3.13.16, pytest-9.1.1, pluggy-1.7.0
-rootdir: C:\Users\cvabw\OneDrive\_Codepath\AI 110\Unit5\ai110-module2show-pawpal-starter
+rootdir: C:\Users\cvabw\OneDrive\_Codepath\AI 110\Unit5\ai110-module2show-pawpal
 plugins: anyio-4.15.1
 collected 31 items                                                                        
 
@@ -241,4 +241,4 @@ Run the app with `streamlit run app.py`, then follow these steps:
 
 **Demo video:**
 
-<img src="diagrams/app-video.gif" alt="PawPal+ app demo" width="800">
+<img src="diagrams/app-video.gif" alt="PawPal+ app demo" width="700">
